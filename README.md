@@ -25,3 +25,6 @@ Source: https://en.wikipedia.org/wiki/Pig_(dice_game)
 🎲 The first player to reach the "FINAL SCORE" on TOTAL score wins the game<br/>
 🎲 You can customize "FINAL SCORE" and "LOSING DICE SCORE". The default "FINAL SCORE" is 100 and default "LOSING DICE SCORE" is 6<br/>
 
+# Demo
+
+<li><a href="https://khalinguy.github.io/Pig-Dice-Game/">Pig Game Demo</a></li>
