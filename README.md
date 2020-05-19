@@ -3,18 +3,18 @@ Online version for the Pig game 🐷 🎲
 Source: https://en.wikipedia.org/wiki/Pig_(dice_game)
 
 
-Stack
+#Stack
 ⭐ HTML
 ⭐ CSS
 ⭐ JavaScript
 
-Features
+#Features
 
 ✔️ Game for two players
 ✔️ Customize final score and losing score
 ✔️ Simple and silly
 
-Game Rules
+#Game-Rules
 
 🎲 The game has 2 players, playing in rounds
 🎲 In each turn, a player rolls two dices as many times as he or she wishes. Each result get added to his/her ROUND score
